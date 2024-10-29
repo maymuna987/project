@@ -39,7 +39,7 @@ include('functions/common_function.php');
         <a class="nav-link fs-4" href="display_all_pro.php">Products</a> 
       </li>
       <li class="nav-item mx-3">
-        <a class="nav-link fs-4" href="user_area/reg.php">Register</a> 
+        <a class="nav-link fs-4" href="user_area/reg.php">Register </a> 
       </li>
       <li class="nav-item mx-3">
         <a class="nav-link fs-4" href="#">Contact</a>
